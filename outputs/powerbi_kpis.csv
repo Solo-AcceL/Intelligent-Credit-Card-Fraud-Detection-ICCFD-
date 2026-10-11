@@ -1,0 +1,2 @@
+test_transactions,test_fraud_labels,test_fraud_rate_pct,flagged_at_0_50,review_rate_pct,true_positives,false_positives,false_negatives,true_negatives,average_precision,roc_auc,test_cost_units_fn20_fp1
+56746,74,0.1304056673598139,131,0.23085327600183272,60,71,14,56601,0.796446540571053,0.9775772296152732,351.0

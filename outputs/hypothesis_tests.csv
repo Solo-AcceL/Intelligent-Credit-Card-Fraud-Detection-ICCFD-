@@ -1,0 +1,3 @@
+hypothesis,test,statistic,p_value,median_fraud_amount,median_legitimate_amount,first_half_rate,first_half_ci_low,first_half_ci_high,second_half_rate,second_half_ci_low,second_half_ci_high
+Fraud and legitimate amount distributions differ,"Mann-Whitney U, two-sided",59517129.5,2.6860902383672092e-05,9.82,22.0,,,,,,
+Fraud prevalence differs between first and second chronological halves,Two-proportion z-test,2.3469396074645275,0.01892832252012179,,,0.001846852244771364,0.0016365142355057195,0.0020841681550577535,0.00148735047193419,0.001299859933911644,0.0017018383800971443

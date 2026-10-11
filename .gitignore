@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+*.log
+data/raw/*.csv
+data/processed/*.parquet
+data/processed/*.csv
+outputs/test_predictions.csv
+outputs/powerbi_high_risk_transactions.csv
+!data/sample/sample_transactions.csv
+!outputs/figures/*.png
+.DS_Store
+Thumbs.db

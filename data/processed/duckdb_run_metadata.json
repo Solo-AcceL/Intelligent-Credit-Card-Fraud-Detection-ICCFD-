@@ -1,0 +1,9 @@
+{
+  "source_csv": "/Users/joyboy/Desktop/EDDS-AI Upgrad/BYOC Project/intelligent-credit-card-fraud-detection/data/raw/creditcard.csv",
+  "rows_raw": 284807,
+  "rows_after_exact_dedup": 283726,
+  "exact_duplicate_rows": 1081,
+  "fraud_raw": 492,
+  "parquet_path": "/Users/joyboy/Desktop/EDDS-AI Upgrad/BYOC Project/intelligent-credit-card-fraud-detection/data/processed/clean_transactions.parquet",
+  "profile_path": "/Users/joyboy/Desktop/EDDS-AI Upgrad/BYOC Project/intelligent-credit-card-fraud-detection/outputs/data_quality_profile.csv"
+}
